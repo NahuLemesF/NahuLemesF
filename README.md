@@ -71,8 +71,8 @@ Me enfoco en crear soluciones limpias, mantenibles y orientadas a calidad, combi
 
 ## Contacto
 
-- GitHub: [github.com/TU_USUARIO](https://github.com/NahuLemesF)
-- LinkedIn: [linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/nahuel-lemes/)
+- GitHub: [github.com/NahuLemesF](https://github.com/NahuLemesF)
+- LinkedIn: [linkedin.com/in/nahuel-lemes](https://www.linkedin.com/in/nahuel-lemes/)
   
 ---
 
